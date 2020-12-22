@@ -14,7 +14,7 @@
   `$ npm install -g firebase-tools`
 - if (error) => { `$ sudo npm install -g firebase-tools` }
 - Deployment
-  `$ firebase login/ init hosting/ build/ y/ npm run build/ firebase deploy `
+  `$ firebase login/ init hosting => build, y/ npm run build/ firebase deploy `
 
 ## [2] Create React app
 
